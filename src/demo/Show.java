@@ -567,4 +567,5 @@ public class Show extends JPanel {
 class Location {
     public int x=0;
     public int y=0;
+    private String name="asdfasdf";
 }
