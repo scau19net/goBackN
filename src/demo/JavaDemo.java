@@ -290,7 +290,7 @@ class Reciever implements Runnable{
                                 else{
                                     break;
                                 }
-                                if(posibility>7){
+                                if(posibility>10){
                                     break;
                                 }
                             }
