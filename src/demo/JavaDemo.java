@@ -16,6 +16,7 @@ class Sender implements Runnable{
     JFrame frame;
     Show show;
     Data data;
+    private String studentName="hhc";
 
     public Sender(Show show){
         this.show=show;
